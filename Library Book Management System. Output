@@ -1,0 +1,66 @@
+PS C:\Users\Samarth\Advanced python> python -u "c:\Users\Samarth\Advanced python\Library book management system.py"
+Enter number of books: 5
+
+Enter details of Book 1
+Book ID: dgg
+Title: maths
+Author: sam
+Price: 500
+
+Enter details of Book 2
+Book ID: ASMW1
+Title: PYTHON
+Author: XYZ
+Price: 300
+
+Enter details of Book 3
+Book ID: DEM2
+Title: DSA   
+Author: ABC
+Price: 400
+
+Enter details of Book 4
+Book ID: DF22
+Title: C++
+Author: 600
+Price: 560
+
+Enter details of Book 5
+Book ID: EDF33
+Title: C
+Author: DFG
+Price: 700
+
+Library Book Records
+==============================
+Book ID : dgg
+Title   : maths
+Author  : sam
+Price   : 500.0
+Category: Premium
+------------------------------
+Book ID : ASMW1
+Title   : PYTHON
+Author  : XYZ
+Price   : 300.0
+Category: Standard
+------------------------------
+Book ID : DEM2
+Title   : DSA
+Author  : ABC
+Price   : 400.0
+Category: Standard
+------------------------------
+Book ID : DF22
+Title   : C++
+Author  : 600
+Price   : 560.0
+Category: Premium
+------------------------------
+Book ID : EDF33
+Title   : C
+Author  : DFG
+Price   : 700.0
+Category: Premium
+------------------------------
+PS C:\Users\Samarth\Advanced python> 
