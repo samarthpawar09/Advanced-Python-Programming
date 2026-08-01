@@ -1,0 +1,26 @@
+PS C:\Users\Samarth\Advanced python> python -u "c:\Users\Samarth\Advanced python\Course Management System.py"
+Enter number of courses: 2
+
+Enter details of Course 1
+Course Name: mathematics 1
+Duration (Months): 3 
+Fee: 6000
+
+Enter details of Course 2
+Course Name: Python
+Duration (Months): 1
+Fee: 2000
+
+Course Details
+==============================
+Course Name : mathematics 1
+Duration    : 3 Months
+Fee         : 6000.0
+Category    : Short-Term
+------------------------------
+Course Name : Python
+Duration    : 1 Months
+Fee         : 2000.0
+Category    : Short-Term
+------------------------------
+PS C:\Users\Samarth\Advanced python> 
